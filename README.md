@@ -1,6 +1,6 @@
 # Mnist-Draw
 ## Predict your MNIST digits using drawing
-* Python Version `3.6
+* Python Version `3.6`
 * Tensorflow Version `1.11`
 
 
